@@ -1,0 +1,21 @@
+TOOD
+
+1. Build the projection
+  -creating the folder
+  -adding files
+  -connecting files
+
+2. Navbar
+  -2 links and a name
+
+3. Portfolio item grid
+  -images
+  -titles
+  -descriptions
+  -animations
+  -javascripts
+
+4. About page
+  -images
+  -split column layout
+  -content
