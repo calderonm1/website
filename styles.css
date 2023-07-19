@@ -130,3 +130,8 @@ body {
   text-align: center;
   color: lightseagreen;
 }
+
+.library-content-wrapper{
+  padding-left: 30px;
+  padding-right: 30px;
+}
